@@ -14,5 +14,5 @@ In this project i intend to:
 
 **Q:** *Why using Git-Hub for that?*
 
-**A:** *To expeierende this important functionality first hand*
+**A:** *To experience this important functionality first hand*
 
